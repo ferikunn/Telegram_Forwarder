@@ -19,7 +19,7 @@ Berikut adalah daftar perintah yang dapat digunakan:
  - /start : Memulai bot.
  - /help : Mengirimi Anda pesan bantuan ini.
 
-just send /id in private chat/group/channel and i will reply it's id.
+cukup kirim / id dalam obrolan pribadi/group/channel dan saya akan membalas id itu.
 """
 
 for module in ALL_MODULES:
