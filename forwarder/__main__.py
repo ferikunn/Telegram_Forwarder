@@ -8,16 +8,16 @@ from forwarder import API_KEY, OWNER_ID, WEBHOOK, IP_ADDRESS, URL, CERT_PATH, PO
 from forwarder.modules import ALL_MODULES
 
 PM_START_TEXT = """
-Hey {}, I'm {}!
-I'm a bot used to forward messages from one chat to another.
-
-To obtain a list of commands, use /help.
+Hau {}, Aku {}!
+Saya adalah bot yang digunakan untuk meneruskan pesan dari satu obrolan ke obrolan lainnya.
+Pemilik [Feri](t.me/xflicks)
+Untuk mendapatkan daftar perintah, gunakan /help.
 """
 
 PM_HELP_TEXT = """
-Here is a list of usable commands:
- - /start : Starts the bot.
- - /help : Sends you this help message.
+Berikut adalah daftar perintah yang dapat digunakan:
+ - /start : Memulai bot.
+ - /help : Mengirimi Anda pesan bantuan ini.
 
 just send /id in private chat/group/channel and i will reply it's id.
 """
